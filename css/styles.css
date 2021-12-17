@@ -1,0 +1,77 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.header{
+    background-color: rgb(17, 42, 66);
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 70px;    
+}
+
+.imagenes{
+    display: inline;
+}
+
+.img{
+    width: 300px;
+    height: 600px;
+}
+
+footer{
+    background-color: rgb(17, 42, 66);
+    bottom: 0%;
+    height: 30px;
+    position: absolute;
+    width: 100%;
+}
+
+.nft{
+    text-align: center;
+    font-size: 48px;
+}
+
+.texto{
+    padding: 30px 100px;
+    font-size: 30px;
+}
+
+.div1{
+    text-align: center;
+}
+
+.img2{
+    height: 400px;
+    width: 600px;
+}
+
+.logo{
+    padding-left: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.ul{
+    list-style-type: none;
+    display: inline-flex;
+    position: absolute;
+    margin: -90px 100px;
+}
+
+.list1{
+    margin-left: 20px;
+}
+
+.list1 a{
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.divFooter a{
+    color: rgb(203, 206, 19);
+    text-decoration: none;
+    padding: 20px;
+}
